@@ -1,5 +1,5 @@
-🛠 Hardware Wiring Layout
-Connect your 16x2 LCD display to your breadboard and Raspberry Pi according to the following configuration:
+## 🛠 Hardware Wiring Layout
+## Connect your 16x2 LCD display to your breadboard and Raspberry Pi according to the following configuration:
 ## 1. Main Power Bridge (Pi to Breadboard Rails)
 Before wiring the LCD, connect your Raspberry Pi to your breadboard rails using two Male-to-Female wires:
 
