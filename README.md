@@ -1,4 +1,3 @@
-Here is your updated README. The table is now rewritten to show how to use your breadboard’s Positive (+) and Negative (-) power rails, making the physical setup much easier to follow.
 ## Raspberry Pi 16x2 LCD Display Driver## A minimalist, lightweight Python script to control a standard HD44780 16x2 character LCD display using the Raspberry Pi's GPIO pins in 4-bit mode. This implementation relies strictly on native system packages, completely bypassing the need for Python pip environments.## 🛠 Hardware Wiring Layout
 Connect your 16x2 LCD display to your breadboard and Raspberry Pi according to the following configuration:
 ## 1. Main Power Bridge (Pi to Breadboard Rails)
