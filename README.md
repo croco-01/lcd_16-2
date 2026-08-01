@@ -33,11 +33,6 @@ The project includes an optimization script that syncs repositories and installs
 chmod +x install.sh# Run the system installation
 ./install.sh
 
-## Dependencies Installed
-
-* python3: Standard system application interpreter.
-* python3-rpi.gpio: C-optimised Linux driver module interface for Raspberry Pi board interaction.
-
 ------------------------------
 ## 🚀 Execution
 Launch the interface driver manually directly from the terminal console line:
