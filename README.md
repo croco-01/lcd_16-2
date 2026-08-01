@@ -29,7 +29,8 @@ Before wiring the LCD, connect your Raspberry Pi to your breadboard rails using 
 The project includes an optimization script that syncs repositories and installs all binary dependencies natively via the system's package manager.
 
 # Make the installation script executable
-chmod +x install.sh# Run the system installation
+chmod +x install.sh
+# Run the system installation
 ./install.sh
 
 ------------------------------
