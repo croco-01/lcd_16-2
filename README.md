@@ -4,8 +4,8 @@ A minimalist, lightweight Python script to control a standard HD44780 16x2 chara
 ## 🛠 Hardware Wiring Layout
 Connect your 16x2 LCD display to your Raspberry Pi according to the following GPIO configuration (BCM Numbering):
 
-| LCD Pin | LCD Pin Name | Raspberry Pi GPIO (BCM) | Physical Pin Type |
-|---|---|---|---|
+| LCD Pin | LCD Pin Name | Raspberry Pi GPIO (BCM) | Raspberry Pi PIN | Physical Pin Type |
+|---|---|---|---|---|
 | 1 | VSS | GND | Ground |
 | 2 | VDD | 5V | Power |
 | 3 | V0 (Contrast) | GND (via 220 Ω - 1 kΩ resistor) | Contrast Adjustment |
