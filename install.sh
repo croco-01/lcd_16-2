@@ -5,6 +5,6 @@ set -e
 
 sudo apt update
 
-sudo apt install -y python3 python3-rpi.gpio
+sudo apt install -y python3 python3-rpi.gpio python3-rplcd
 
 echo "=== Installation complete! ==="
