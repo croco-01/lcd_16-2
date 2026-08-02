@@ -33,6 +33,9 @@ chmod +x install.sh
 # Run the system installation
 ./install.sh
 
+# Make the pip installation script
+pip3 install -r requirements.txt
+
 ------------------------------
 ## 🚀 Execution
 Launch the interface driver manually directly from the terminal console line:
