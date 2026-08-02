@@ -40,6 +40,6 @@ pip3 install -r requirements.txt
 ## 🚀 Execution
 Launch the interface driver manually directly from the terminal console line:
 
-## python3 LCD-16x2.py
-
+# python3 LCD-16x2.py
+# python3 manual_test.py
 Press CTRL + C at any point to safely intercept script operations. The program intercepts the termination signal and automatically executes native GPIO.cleanup() routines to clear current states from your development hardware.
