@@ -31,7 +31,7 @@ The project includes an optimization script that syncs repositories and installs
 # Make the installation script executable
 chmod +x install.sh
 # Run the system installation
-./install.sh
+sudo ./install.sh
 
 # Make the pip installation script
 pip3 install -r requirements.txt
